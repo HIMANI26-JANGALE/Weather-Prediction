@@ -163,7 +163,6 @@ python-dateutil==2.8.0
 pytz==2019.3
 pyviz-comms==2.0.1
 PyWavelets==1.0.3
-pywin32==223
 pywin32-ctypes==0.2.0
 pywinpty==1.1.0
 PyYAML==5.1.2
