@@ -1,7 +1,6 @@
 aiohttp==3.7.4.post0
 alabaster==0.7.12
 altgraph==0.17
-anaconda-client==1.7.2
 anaconda-navigator==2.0.3
 anaconda-project==0.8.3
 anyio==3.0.1
